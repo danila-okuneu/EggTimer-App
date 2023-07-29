@@ -13,7 +13,7 @@
 		CB0993E32A71843200B27092 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB0993E12A71843200B27092 /* Main.storyboard */; };
 		CB0993E52A71843300B27092 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB0993E42A71843300B27092 /* Assets.xcassets */; };
 		CB0993E82A71843300B27092 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB0993E62A71843300B27092 /* LaunchScreen.storyboard */; };
-		CB0993F02A7184B500B27092 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CB0993EF2A7184B500B27092 /* alarm_sound.mp3 */; };
+		CB28FFD22A75BC860002CC86 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CB28FFD12A75BC860002CC86 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		CB0993E42A71843300B27092 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB0993E72A71843300B27092 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB0993E92A71843300B27092 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CB0993EF2A7184B500B27092 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = "../../../../Downloads/EggTimer-iOS13-master/EggTimer/alarm_sound.mp3"; sourceTree = "<group>"; };
+		CB28FFD12A75BC860002CC86 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +63,7 @@
 				CB0993DF2A71843200B27092 /* ViewController.swift */,
 				CB0993E12A71843200B27092 /* Main.storyboard */,
 				CB0993E42A71843300B27092 /* Assets.xcassets */,
-				CB0993EF2A7184B500B27092 /* alarm_sound.mp3 */,
+				CB28FFD12A75BC860002CC86 /* alarm_sound.mp3 */,
 				CB0993E62A71843300B27092 /* LaunchScreen.storyboard */,
 				CB0993E92A71843300B27092 /* Info.plist */,
 			);
@@ -130,7 +130,7 @@
 			files = (
 				CB0993E82A71843300B27092 /* LaunchScreen.storyboard in Resources */,
 				CB0993E52A71843300B27092 /* Assets.xcassets in Resources */,
-				CB0993F02A7184B500B27092 /* alarm_sound.mp3 in Resources */,
+				CB28FFD22A75BC860002CC86 /* alarm_sound.mp3 in Resources */,
 				CB0993E32A71843200B27092 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
